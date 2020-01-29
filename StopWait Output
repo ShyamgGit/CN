@@ -1,0 +1,199 @@
+
+=======SENDER=====================
+
+Waiting for Connection....
+reciver     > connected    .
+Enter the data to send....
+ How are you?
+data sent>0 
+waiting for ack.....
+
+
+receiver   >   packet recieved
+
+
+data sent>1H
+waiting for ack.....
+
+
+Time out resending data....
+
+
+data sent>1H
+waiting for ack.....
+
+
+receiver   >   packet recieved
+
+
+data sent>0o
+waiting for ack.....
+
+
+receiver   >   packet recieved
+
+
+data sent>1w
+waiting for ack.....
+
+
+receiver   >   packet recieved
+
+
+data sent>0 
+waiting for ack.....
+
+
+Time out resending data....
+
+
+data sent>0 
+waiting for ack.....
+
+
+receiver   >   packet recieved
+
+
+data sent>1a
+waiting for ack.....
+
+
+receiver   >   packet recieved
+
+
+data sent>0r
+waiting for ack.....
+
+
+receiver   >   packet recieved
+
+
+data sent>1e
+waiting for ack.....
+
+
+Time out resending data....
+
+
+data sent>1e
+waiting for ack.....
+
+
+receiver   >   packet recieved
+
+
+data sent>0 
+waiting for ack.....
+
+
+receiver   >   packet recieved
+
+
+data sent>1y
+waiting for ack.....
+
+
+receiver   >   packet recieved
+
+
+data sent>0o
+waiting for ack.....
+
+
+Time out resending data....
+
+
+data sent>0o
+waiting for ack.....
+
+
+receiver   >   packet recieved
+
+
+data sent>1u
+waiting for ack.....
+
+
+receiver   >   packet recieved
+
+
+data sent>0?
+waiting for ack.....
+
+
+receiver   >   packet recieved
+
+
+All data sent. exiting.
+
+
+
+
+============= RECEIVER ================
+
+waiting for connection...
+Connection established   :
+
+
+receiver         >0h
+
+
+receiver         >1i
+Data recived=hi
+waiting for connection...
+Connection established   :
+
+
+receiver         >0 
+
+
+receiver         >1H
+
+
+receiver         >1H   duplicate data
+
+
+receiver         >0o
+
+
+receiver         >1w
+
+
+receiver         >0 
+
+
+receiver         >0    duplicate data
+
+
+receiver         >1a
+
+
+receiver         >0r
+
+
+receiver         >1e
+
+
+receiver         >1e   duplicate data
+
+
+receiver         >0 
+
+
+receiver         >1y
+
+
+receiver         >0o
+
+
+receiver         >0o   duplicate data
+
+
+receiver         >1u
+
+
+receiver         >0?
+Data recived=hi How are you?
+waiting for connection...
+
+
